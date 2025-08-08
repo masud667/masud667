@@ -71,6 +71,15 @@ Stay tuned for updates!
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Work in Progress" />
 </p>
 
+
+## 📌 Pinned Projects
+
+[![Project One](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-one&theme=radical)](https://github.com/masud667/project-one)
+
+[![Project Two](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-two&theme=radical)](https://github.com/masud667/project-two)
+
+[![Project Three](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-three&theme=radical)](https://github.com/masud667/project-three)
+
 <!--
 **masud667/masud667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
