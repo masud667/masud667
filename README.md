@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src=""/>
+  <img src="./github%20banner%20img.jpg" alt="Github Banner"/>
 </p>
 
 <!--
