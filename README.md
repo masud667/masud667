@@ -79,7 +79,7 @@ Stay tuned for updates!
 
 ## 📌 Pinned Projects
 
-[![Project One](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-one&theme=radical)](https://github.com/masud667/project-one)
+[![Project One](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-one&theme=radical)]([https://github.com/masud667/project-one](https://github.com/masud667/A9-ParentPal))
 
 [![Project Two](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-two&theme=radical)](https://github.com/masud667/project-two)
 
