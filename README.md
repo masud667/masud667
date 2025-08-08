@@ -4,6 +4,10 @@
   <img src="./github%20banner%20img.jpg" alt="Github Banner"/>
 </p>
 
+
+
+
+
 <!-- Side-by-side (desktop first), still scales down on narrow screens -->
 <table align="center">
   <tr>
@@ -19,6 +23,9 @@
 </table>
 
 
+
+
+
 ## 💡 About Me
 
 - 🚀 MERN Stack Developer | Passionate about building modern web applications
@@ -27,6 +34,10 @@
 - 📚 Always learning & exploring new technologies
 - 🌱 Currently working on **Life Insurance Management Platform**  
 - 💬 Ask me about **JavaScript, React, API integration, or MERN Stack best practices**
+
+
+
+
 
 ## 🚀 Technologies & Tools
 
@@ -44,6 +55,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
+
 
 
 
