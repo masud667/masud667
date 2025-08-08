@@ -5,19 +5,71 @@
 </p>
 
 
-<!-- Side-by-side (desktop first), still scales down on narrow screens -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=masud667&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="460" style="max-width:100%;">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud667&layout=compact&theme=tokyonight" alt="Top Langs" width="300" style="max-width:100%;">
-      <br/>
-      <img src="https://streak-stats.demolab.com?user=masud667&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300" style="max-width:100%; margin-top:8px;">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <!-- Animated Header -->
+  <h2 style="font-family: 'Segoe UI', sans-serif; color: #58a6ff; text-shadow: 0 0 10px rgba(88,166,255,0.7); margin-bottom: 25px;">
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite;">✨</span> 
+    My GitHub Stats 
+    <span style="display: inline-block; animation: float 3s ease-in-out infinite 0.5s;">🚀</span>
+  </h2>
+
+  <!-- Stats Container -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1200px; margin: 0 auto;">
+
+    <!-- Main Stats Card -->
+    <a href="https://github.com/masud667" target="_blank" 
+       style="text-decoration: none; transition: transform 0.4s ease;"
+       onmouseover="this.style.transform='scale(1.03)'" 
+       onmouseout="this.style.transform='scale(1)'">
+      <img src="https://github-readme-stats.vercel.app/api?username=masud667&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&include_all_commits=true" 
+           alt="GitHub Stats" 
+           style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); max-width: 100%; min-width: 300px; height: auto;">
+    </a>
+
+    <!-- Right Column -->
+    <div style="display: flex; flex-direction: column; gap: 20px; min-width: 300px;">
+
+      <!-- Top Languages Card -->
+      <a href="https://github.com/masud667?tab=repositories" target="_blank" 
+         style="text-decoration: none; transition: transform 0.4s ease;"
+         onmouseover="this.style.transform='scale(1.03)'" 
+         onmouseout="this.style.transform='scale(1)'">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud667&layout=compact&theme=merko&bg_color=0d1117&hide_border=true&langs_count=8" 
+             alt="Top Languages" 
+             style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 100%;">
+      </a>
+
+      <!-- Streak Stats Card -->
+      <a href="https://github.com/masud667" target="_blank" 
+         style="text-decoration: none; transition: transform 0.4s ease;"
+         onmouseover="this.style.transform='scale(1.03)'" 
+         onmouseout="this.style.transform='scale(1)'">
+        <img src="https://streak-stats.demolab.com?user=masud667&theme=monokai&background=0d1117&hide_border=true&date_format=j%20M%5B%20Y%5D" 
+             alt="GitHub Streak" 
+             style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 100%;">
+      </a>
+    </div>
+  </div>
+
+  <!-- Animated Bottom Text -->
+  <p style="margin-top: 25px; font-family: 'Segoe UI', sans-serif; color: #8b949e; font-size: 14px; animation: pulse 2s infinite;">
+    ⚡ Updated daily • Hover for magic effect ⚡
+  </p>
+</div>
+
+<!-- Embedded Animation Styles -->
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+  
+  @keyframes pulse {
+    0%, 100% { opacity: 0.8; }
+    50% { opacity: 1; text-shadow: 0 0 5px #58a6ff; }
+  }
+</style>
 
 
 💡 **About Me:**
