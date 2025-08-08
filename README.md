@@ -73,29 +73,8 @@ Stay tuned for updates!
 
 ## 📌 Pinned Projects
 
-- [Project One](https://github.com/masud667/A9-ParentPal) - A cool React app for XYZ.
+- [Parrent Pal](https://github.com/masud667/A9-ParentPal) - A cool React app for XYZ.
 - [Project Two](https://github.com/masud667/project-two) - Node.js API server with JWT auth.
 - [Project Three](https://github.com/masud667/project-three) - Portfolio website built with TailwindCSS.
 
-## 📌 Pinned Projects
 
-[![Project One](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-one&theme=radical)]([https://github.com/masud667/project-one](https://github.com/masud667/A9-ParentPal))
-
-[![Project Two](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-two&theme=radical)](https://github.com/masud667/project-two)
-
-[![Project Three](https://github-readme-stats.vercel.app/repos/pinned?username=masud667&repo=project-three&theme=radical)](https://github.com/masud667/project-three)
-
-<!--
-**masud667/masud667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
