@@ -5,13 +5,20 @@
 </p>
 
 
-![Masud's GitHub stats](https://github-readme-stats.vercel.app/api?username=masud667&show_icons=true&theme=tokyonight)
+<!-- Side-by-side (desktop first), still scales down on narrow screens -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=masud667&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="460" style="max-width:100%;">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud667&layout=compact&theme=tokyonight" alt="Top Langs" width="300" style="max-width:100%;">
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=masud667&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300" style="max-width:100%; margin-top:8px;">
+    </td>
+  </tr>
+</table>
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=masud667&theme=tokyonight&hide_border=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masud667&layout=compact&theme=tokyonight)
 
 <!--
 **masud667/masud667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
