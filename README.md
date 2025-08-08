@@ -71,6 +71,11 @@ Stay tuned for updates!
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Work in Progress" />
 </p>
 
+## 📌 Pinned Projects
+
+- [Project One](https://github.com/masud667/project-one) - A cool React app for XYZ.
+- [Project Two](https://github.com/masud667/project-two) - Node.js API server with JWT auth.
+- [Project Three](https://github.com/masud667/project-three) - Portfolio website built with TailwindCSS.
 
 ## 📌 Pinned Projects
 
