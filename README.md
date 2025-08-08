@@ -19,7 +19,8 @@
 </table>
 
 
-💡 **About Me:**
+## 💡 About Me
+
 - 🚀 MERN Stack Developer | Passionate about building modern web applications
 - 🛠 Skilled in **React**, **Node.js**, **Express**, **MongoDB**, and **Firebase**
 - 🎯 Love working on **secure, scalable, and role-based platforms**
@@ -44,11 +45,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## 🛠 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,js,html,css,git,github,vscode" />
-</p>
 
 <!--
 **masud667/masud667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
