@@ -20,6 +20,22 @@
 </table>
 
 
+💡 **About Me:**
+- 🚀 MERN Stack Developer | Passionate about building modern web applications
+- 🛠 Skilled in **React**, **Node.js**, **Express**, **MongoDB**, and **Firebase**
+- 🎯 Love working on **secure, scalable, and role-based platforms**
+- 📚 Always learning & exploring new technologies
+- 🌱 Currently working on **Life Insurance Management Platform**  
+- 💬 Ask me about **JavaScript, React, API integration, or MERN Stack best practices**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,js,html,css,git,github,vscode" />
+</p>
+
 <!--
 **masud667/masud667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
