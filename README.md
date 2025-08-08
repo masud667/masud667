@@ -46,6 +46,18 @@
 </p>
 
 
+
+## 📝 Blog & Articles
+
+🚧 *Coming Soon!* 🚧  
+I'm planning to share articles on **web development, MERN stack tips, and coding best practices** here.  
+Stay tuned for updates!  
+
+<!-- Example placeholder -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Work in Progress" />
+</p>
+
 <!--
 **masud667/masud667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
