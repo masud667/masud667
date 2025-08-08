@@ -35,8 +35,9 @@
 - 🌱 Currently working on **Life Insurance Management Platform**  
 - 💬 Ask me about **JavaScript, React, API integration, or MERN Stack best practices**
 
-
-
+## Contact
+-> whatsapp: +8801862256718
+-> email : masudparvaz883@gmail.com
 
 
 ## 🚀 Technologies & Tools
