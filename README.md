@@ -36,8 +36,8 @@
 - 💬 Ask me about **JavaScript, React, API integration, or MERN Stack best practices**
 
 ## Contact
--> whatsapp: +8801862256718
--> email : masudparvaz883@gmail.com
+- Whatsapp: +8801862256718
+- Email : masudparvaz883@gmail.com
 
 
 ## 🚀 Technologies & Tools
